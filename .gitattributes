@@ -1,0 +1,4 @@
+*.htm linguist-detectable=false
+*.html linguist-detectable=false
+*.csv linguist-detectable=false
+*.py linguist-detectable=true
